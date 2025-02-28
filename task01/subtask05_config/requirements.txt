@@ -1,0 +1,6 @@
+Python 版本: 3.9.21 (main, Dec 11 2024, 16:35:24) [MSC v.1929 64 bit (AMD64)]
+TensorFlow 版本: 2.18.0
+PyTorch 版本: 2.5.1
+Pandas 版本: 2.2.3
+Scikit - learn 版本: 1.6.1
+OpenCV 版本: 4.11.0
